@@ -1,7 +1,8 @@
 # target_generate
 
 this project is to generate moving targets, load targets set from cfg file and generate their location points.
-![struction of system]https://github.com/hitkunjiang/target_generate/blob/master/document/construction.jpg
+
+![struction of system](https://github.com/hitkunjiang/target_generate/blob/master/document/construction.jpg)
 ## Requirements
 linux/C++
 
