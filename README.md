@@ -19,4 +19,4 @@ target_generate works under Linux environments. I recommend a so-called out of s
 
 Go to the bin diretory and launch the program with the following command:
 ```bash
-./target_generate target_set.ini
+./target_generate
