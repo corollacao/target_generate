@@ -1,6 +1,6 @@
 # target_generate
 
-this project is to generate moving targets, load targets set from ini file and generate their location points.
+this project is to generate moving targets, load targets set from cfg file and generate their location points.
 
 ## Requirements
 linux/C++
